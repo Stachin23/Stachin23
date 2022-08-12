@@ -6,7 +6,7 @@
 - :robot: Exemplo: Scratch,Java Script
 - :bomb: Pratico algumas atividades fisicas por exemplo academia
 - :house_with_garden: Atualmente moro na cidade de Campo Mourão 
-
+- :e-mail: Meu e-mail é joao.stachin@escola.pr.gov.br
 
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
