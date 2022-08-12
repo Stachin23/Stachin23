@@ -5,6 +5,7 @@
 - :space_invader:	 Estou aprendendo programação 
 - :robot: Exemplo: Scratch,Java Script
 - :bomb: Pratico algumas atividades fisicas por exemplo academia
+- :house_with_garden: Atualmente moro na cidade de Campo Mourão 
 
 
 
